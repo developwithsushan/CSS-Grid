@@ -9,3 +9,4 @@ CSS Grid Terminology
 Column Axis (↓) Row Axis (→)
 
 
+FR Unit = Fractional Unit
